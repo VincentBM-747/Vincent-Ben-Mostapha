@@ -21,6 +21,18 @@
 - Python
 - Cybersecurity
 
+## Projects
+
+🔹 Active Directory Lab
+
+🔹 GLPI on Debian 12
+
+🔹 Cisco VLAN Infrastructure
+
+🔹 Cisco FTP Backup
+
+🔹 PowerShell Automation via GPO
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/vincent-ben-mostapha-a08804398/?isSelfProfile=true
