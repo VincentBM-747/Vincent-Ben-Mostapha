@@ -27,7 +27,7 @@
 
 ### Active Directory Infrastructure
 Deployment of a complete Active Directory environment using Windows Server 2022.
-[View Project](https://github.com/VincentBM-747/Active-Directory-Windows-Server-2022)
+[View Project](https://github.com/VincentBM-747/ActiveDirectory-Lab)
 
 ### GLPI on Debian 12
 Helpdesk and asset management platform integrated with Active Directory.
