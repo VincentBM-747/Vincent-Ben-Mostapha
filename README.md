@@ -23,8 +23,6 @@
 
 ## Projects
 
-## Projects
-
 ### Active Directory Infrastructure
 Deployment of a complete Active Directory environment using Windows Server 2022.
 [View Project](https://github.com/VincentBM-747/ActiveDirectory-Lab)
