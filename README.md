@@ -23,15 +23,27 @@
 
 ## Projects
 
-🔹 Active Directory Lab
+## Projects
 
-🔹 GLPI on Debian 12
+### Active Directory Infrastructure
+Deployment of a complete Active Directory environment using Windows Server 2022.
+[View Project](https://github.com/VincentBM-747/Active-Directory-Windows-Server-2022)
 
-🔹 Cisco VLAN Infrastructure
+### GLPI on Debian 12
+Helpdesk and asset management platform integrated with Active Directory.
+[View Project](https://github.com/VincentBM-747/GLPI-Debian-12)
 
-🔹 Cisco FTP Backup
+### Cisco VLAN Infrastructure
+VLAN segmentation and Inter-VLAN routing using Cisco Packet Tracer.
+[View Project](https://github.com/VincentBM-747/Cisco-VLAN-Lab)
 
-🔹 PowerShell Automation via GPO
+### Cisco FTP Backup
+Automated configuration backup using FTP.
+[View Project](https://github.com/VincentBM-747/Cisco-FTP-Backup)
+
+### PowerShell DHCP Remediation
+Automatic DHCP enforcement through GPO and PowerShell.
+[View Project](https://github.com/VincentBM-747/PowerShell-DHCP-Remediation)
 
 ## Contact
 
