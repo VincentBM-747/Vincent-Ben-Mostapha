@@ -45,5 +45,5 @@ Automatic DHCP enforcement through GPO and PowerShell.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/vincent-ben-mostapha-a08804398/?isSelfProfile=true
+- LinkedIn: [Vincent Ben Mostapha](https://www.linkedin.com/in/vincent-ben-mostapha-a08804398/?isSelfProfile=true)
 - Email: Vincentxq6@gmail.com
