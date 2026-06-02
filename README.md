@@ -25,6 +25,13 @@ Open to international opportunities, particularly in Japan.
 - Python
 - Cybersecurity
 
+## Currently Learning
+
+- Japanese (JLPT N3)
+- Linux Administration
+- SOC Analysis
+- PowerShell Automation
+
 ## Projects
 
 ### Active Directory Infrastructure
