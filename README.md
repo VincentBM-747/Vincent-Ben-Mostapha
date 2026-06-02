@@ -2,6 +2,10 @@
 
 🎓 Systems and Network Technician specializing in cybersecurity
 
+Currently building hands-on projects in Windows Server, Linux, Cisco Networking and IT Automation.
+
+Open to international opportunities, particularly in Japan.
+
 🔒 Passionate about:
 - Cybersecurity
 - Linux and Windows administration
